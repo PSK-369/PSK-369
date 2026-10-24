@@ -26,11 +26,6 @@
 
 
 <p align="center">🛠️ Technical Arsenal</p>
-<div align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150" alt="Neural Net 3D"/>
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="150" alt="Cloud Server 3D"/>
-<img src="https://media.giphy.com/media/USv0Rjh742UuOYqEOk/giphy.gif" width="150" alt="Database 3D"/>
-</div>
 
 <br>
 
