@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=250&section=header&text=Shravan+Kumar+P&fontSize=60&fontColor=FF6B00&animation=fadeIn&fontAlignY=35&desc=Data+Scientist+%7C+Machine+Learning+Engineer&descAlignY=65&descSize=22&descFontColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=000000&height=200&section=header&text=Shravan+Kumar+P&fontSize=90&fontColor=FF6B00&animation=fadeIn&fontAlignY=35&desc=Data+Scientist+%7C+Machine+Learning+Engineer&descAlignY=65&descSize=22&descFontColor=FFFFFF" width="100%"/>
 </div>
 
 <div align="center">
@@ -157,13 +157,6 @@
 </td>
 </tr>
 </table>
-</div>
-
-<p align="center">📊 GitHub Analytics</p>
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shravan369&show_icons=true&bg_color=000000&title_color=FF6B00&text_color=FFFFFF&icon_color=FF6B00&border_color=FF6B00&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravan369&layout=compact&bg_color=000000&title_color=FF6B00&text_color=FFFFFF&border_color=FF6B00&hide_border=true"/>
-</div>
 
 <br/>
 
